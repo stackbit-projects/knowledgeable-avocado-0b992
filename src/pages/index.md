@@ -5,7 +5,7 @@ sections:
     title: Daytime
     subtitle: Manage your team's time
     actions:
-      - label: Try for free
+      - label: Its paid fuckers!!
         url: /pricing
         style: primary
     image: images/hero.svg

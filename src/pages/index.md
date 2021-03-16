@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Daytime
-    subtitle: Celebrating daily wins with YourGoal.
+    subtitle: Manage your team's time
     actions:
       - label: Try for free
         url: /pricing

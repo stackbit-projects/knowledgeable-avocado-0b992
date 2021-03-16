@@ -1,5 +1,5 @@
 ---
-title: About
+title: Your mama so fat....
 seo:
   title: About
   description: This is the about us page
